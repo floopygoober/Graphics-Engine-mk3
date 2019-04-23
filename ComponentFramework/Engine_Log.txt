@@ -1,0 +1,1 @@
+[INFO]: OpenGL version: 4.6.0 NVIDIA 417.35 in file: c:\users\alimg\desktop\secondyear\secondsemester\graphics\componentframework1.0.3\componentframework\window.cpp on line: 41
